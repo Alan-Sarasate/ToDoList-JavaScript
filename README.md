@@ -1,1 +1,1 @@
-ToDO List básico feito com HTML, CSS e JavaSCript.
+ToDo List básico feito com HTML, CSS e JavaSCript.
